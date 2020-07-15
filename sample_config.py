@@ -27,7 +27,7 @@ class Config(object):
     # chunk size that should be used with requests
     CHUNK_SIZE = int(os.environ.get("CHUNK_SIZE", 128))
     # default thumbnail to be used in the videos
-    DEF_THUMB_NAIL_VID_S = os.environ.get("DEF_THUMB_NAIL_VID_S", "https://placehold.it/90x90")
+    DEF_THUMB_NAIL_VID_S = os.environ.get("DEF_THUMB_NAIL_VID_S", "https://t.me/Cglitz_admin")
     # for storing the user details
     DB_SQLALCHEMY = "USERS.session"
     # proxy for accessing youtube-dl in GeoRestricted Areas
