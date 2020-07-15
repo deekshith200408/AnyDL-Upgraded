@@ -1,26 +1,27 @@
 class Translation(object):
-    START_TEXT = """This is a Multi Purpose bot created by @prgofficial.
+    START_TEXT = """This is a Multi Purpose bot created by @princedavitt.
     
-    This Bot is exclusively made for мσνιєѕσиℓу™ Team !
+    This Bot is exclusively made for Cinemaglitz™ Team !
+    Please suscribe first channel.Otherwise you will get currupted file
     
-    Channel Link : https://t.me/joinchat/AAAAAEw1pO1bBX6ylAb0hQ
+    Channel Link : https://t.me/joinchat/AAAAAFP9cMvmpwtK_k2kXg
     
-© @prgofficial"""
+© @princedavitt"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Contact @prgofficial for plans"
+    UPGRADE_TEXT = "Contact @Cinemaglitz for plans"
     
     FORMAT_SELECTION = "Got the file. \n now sent me a image if you want to set as custom thumbnail \n and then click the needed format from the below buttons."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@GetPublicLinkBot URL detected. Please do not abuse the service!"
     DOWNLOAD_START = "📤 Your request is in the queue. Do not send another request. Please be patient..."
-    UPLOAD_START = "Uploading...."
+    UPLOAD_START = "Uploading....Join Channel"
     RCHD_BOT_API_LIMIT = "Size greater than maximum allowed size (50MB). Neverthless, trying to upload."
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Mission Accomplished!!! Join @moviesonlybotupdates for any help."
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.96GB due to Telegram API limitations."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Mission Accomplished!!! Join @Cglitz for any help."
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. And \nUploaded in {} seconds."
-    NOT_AUTH_USER_TEXT = "Please /upgrade your subscription.Contact @prgofficial"
+    NOT_AUTH_USER_TEXT = "Please /upgrade your subscription.Contact @Cinemaglitz"
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
@@ -34,7 +35,7 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: AnyDl
-Expiry: Ask to @prgofficial"""
+Expiry: Ask to @Princedavitt"""
     HELP_USER = """There are multiple things I can do:
 
 👉 All Supported Video / File Formats, with custom file name and custom thumbnail support
@@ -49,7 +50,7 @@ Expiry: Ask to @prgofficial"""
 👉 Get Direct Download link of any media
 👉 Extract subtitle from any direct links
 --------
-Contact @prgofficial for more info."""
+Contact @princedavitt for more info."""
    
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
