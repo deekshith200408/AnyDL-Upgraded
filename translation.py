@@ -9,7 +9,7 @@ class Translation(object):
 © @princedavitt"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Contact @Cinemaglitz for plans"
+    UPGRADE_TEXT = "Contact @princedavitt for plans"
     
     FORMAT_SELECTION = "Got the file. \n now sent me a image if you want to set as custom thumbnail \n and then click the needed format from the below buttons."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
@@ -21,7 +21,7 @@ URL | filename | username | password"""
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.96GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Mission Accomplished!!! Join @Cglitz for any help."
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. And \nUploaded in {} seconds."
-    NOT_AUTH_USER_TEXT = "Please /upgrade your subscription.Contact @Cinemaglitz"
+    NOT_AUTH_USER_TEXT = "Please /upgrade your subscription.Contact @princedavitt"
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
