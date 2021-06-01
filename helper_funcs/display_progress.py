@@ -41,7 +41,7 @@ def progress_for_pyrogram(client, current, total, ud_type, message_id, chat_id, 
             ''.join(["□" for i in range(20 - math.floor(percentage / 5))]),
             round(percentage, 2))
 
-        tmp = progress + "{0} of {1}\nSpeed: {2}/s\nETA: {3}\n".format(
+        tmp = progress + "{0} of {1}\n☠️𝐒𝐏𝐄𝐄𝐃 {2}/s\n🎲𝐄𝐓𝐀: {3}\n".format(
             humanbytes(current),
             humanbytes(total),
             humanbytes(speed),
